@@ -1,5 +1,7 @@
 # Document Q&A RAG Chatbot with Message History
 
+🚀 **Live App:** [https://document-app-rag-chatbot-prem-mohan.streamlit.app/]
+
 A Streamlit-based Retrieval-Augmented Generation (RAG) chatbot that allows users to upload **TXT** or **PDF** documents, ask questions, and receive answers grounded in the uploaded document content. The chatbot also maintains **conversation history** to support follow-up and clarification questions.
 
 ## Features
