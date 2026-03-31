@@ -2,8 +2,8 @@ streamlit
 langchain
 langchain-community
 langchain-text-splitters
-langchain-ollama
+langchain-groq
 chromadb
-pypdf
 sentence-transformers
 torch
+pypdf
